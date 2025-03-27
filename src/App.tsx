@@ -336,7 +336,7 @@ const otherWork = [
     title: "Creative Poster Design",
     description: "A collection of visually striking posters designed for various brands, events, and campaigns. Each poster is crafted with a unique artistic approach to effectively communicate the message.",
     images: [
-      "poster_1.png"
+      "static/images/poster_1.png"
     ],
     technologies: ["Photoshop", "Illustrator", "Figma"]
   },
@@ -344,7 +344,7 @@ const otherWork = [
     title: "Logo & Brand Identity",
     description: "A diverse range of logo designs created for startups, businesses, and personal brands. These logos incorporate modern design trends with timeless appeal.",
     images: [
-     "logos_1.jpeg"
+     "static/images/logos_1.jpeg"
     ],
     technologies: ["Illustrator", "CorelDRAW", "Figma"]
   },
